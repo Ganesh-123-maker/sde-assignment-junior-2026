@@ -1,0 +1,10 @@
+# Generated / local-only artefacts of the Assignment A pipeline.
+*.db
+*.db-wal
+*.db-shm
+*.key
+reports/
+data/
+data_large/
+__pycache__/
+.pytest_cache/
